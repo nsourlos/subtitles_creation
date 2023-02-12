@@ -9,7 +9,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)]( https://github.com/nsourlos/subtitle_creation)
 
 
-> This tool can be used to generate subtitles from any video file. Preferred language is English but trancription can be done from any other language as well. For non-English languages please use the `large` whisper model. The code for the transcription can be found [here](/subtitle_creation_whisper.py). The whisper models can be found in [this discussion](https://github.com/openai/whisper/discussions/63)
+> This tool can be used to generate subtitles from any video file. Preferred language is English but trancription can be done from any other language as well. For non-English languages please use the `large` whisper model. The code for the transcription can be found [here](./subtitle_creation.py). The whisper models can be found in [this discussion](https://github.com/openai/whisper/discussions/63).
+
+**Caution!** The original [whisper repository](https://github.com/openai/whisper) should also be downloaded and added in the folder of this repository.
 
 
 ## Documentation (by *Chat GPT*)
